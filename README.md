@@ -39,12 +39,3 @@ Portfólio moderno e responsivo desenvolvido com **React** para apresentar proje
 
 🔗 [https://portifolio-jessica-domingues.vercel.app/](https://portifolio-jessica-domingues.vercel.app/)
 
----
-
-### 🙋‍♀️ Contato
-
-- **GitHub:** [JessFlauzino](https://github.com/JessFlauzino)  
-- **LinkedIn:** [Seu perfil aqui](https://www.linkedin.com/in/seu-perfil) *(adicione seu link real)*  
-- **Email:** seuemail@exemplo.com *(opcional)*
-
----
